@@ -1,0 +1,31 @@
+================== PROGRAMAÇÃO WEB 3 =================
+Projeto: mvc_web3_2bim
+
+Prazo: 23/05
+
+Adicionar as Funcionalidades: Atualizar, Deletar
+Selecionar um específico
+
+Adicionar para: Pessoa, Produto e ProdutoCategoria
+
+Camadas:
+-DAO:Update, SelectById, Delete;
+-Model: Save, GetById, Delete;
+-Controller: Form, Delete;
+-View: Adicionar Value nos inputs do form.
+
+
+
+Abrir a Pasta App do projeto no Visual Code
+Utilizar o comando: php -S localhost:8000 dentro do ctrl + '
+Abrir o Banco de dados no MySQL, utilizar o Forager Enginer
+Testar o Formulário no navegador
+
+Criar Produtos -> seguir o mesmo padrão de Pessoas;
+Criar as Categorias de Produtos;
+Upar no GitHub e enviar via Teams
+
+
+Links:
+https://github.com/tiagotas/PHP_MVC_Exemplo_v1
+https://www.youtube.com/watch?v=7_eSjWJS_bg
