@@ -8,13 +8,13 @@ namespace App\DAO;
  */
 
 
-
 use App\Model\PessoaModel;
 use \PDO;
 
 /**
  * \PDO puxa o arquivo da pasta PHP
  */
+
 
 /**
  * As classes DAO (Data Access Object) executam os SQL junto ao banco de dados.

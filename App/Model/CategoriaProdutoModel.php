@@ -1,5 +1,8 @@
 <?php
 
+namespace App\Model;
+use App\DAO\CategoriaProdutoDAO;
+
 class CategoriaProdutoModel{
 
     public $id, $nomecategoria, $descricao;

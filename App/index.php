@@ -1,5 +1,10 @@
 <?php
 
+
+use App\Controller\CategoriaProdutoController;
+use App\Controller\PessoaController; 
+use App\Controller\ProdutoController;
+
 $uri_parse = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 
 //echo $uri_parse;

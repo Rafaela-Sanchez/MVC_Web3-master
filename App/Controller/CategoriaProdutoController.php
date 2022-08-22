@@ -1,5 +1,9 @@
 <?php
 
+namespace App\Controller;
+use App\Model\CategoriaProdutoModel;
+
+
 class CategoriaProdutoController{
 
     public static function form()
